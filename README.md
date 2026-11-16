@@ -6,7 +6,7 @@ This repository contains thermodynamic and transport-property grids developed fo
 
 The models presented here build directly upon the PALEOS framework developed by Attia et al. (2026):
 
-> Attia, M., Lichtenberg, T., Jungová, E., & Sastre, M. (2026), *PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors*, arXiv:2605.03741.
+> Attia, M., Lichtenberg, T., Jungová, E., & Sastre, M. (2026), *PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors*, A&A, 713, A225, doi: 10.1051/0004-6361/202660790.
 
 PALEOS provides self-consistent multiphase equations of state and interior structure calculations for rocky exoplanets. 
 
@@ -69,9 +69,9 @@ If you use these grids in published work, please cite both the original PALEOS p
 
 ### PALEOS
 
-Attia, M., Lichtenberg, T., Jungová, E., & Sastre, M. (2026), *PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors*, arXiv:2605.03741.
+> Attia, M., Lichtenberg, T., Jungová, E., & Sastre, M. (2026), *PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors*, A&A, 713, A225, doi: 10.1051/0004-6361/202660790.
 
-Available at: [arXiv:2605.03741](https://arxiv.org/abs/2605.03741)
+Available at: [10.1051/0004-6361/202660790](https://www.aanda.org/articles/aa/full_html/2026/09/aa60790-26/aa60790-26.html)
 
 ### The Electromagnetic Life and Death of Ultra-Short-Period Planets
 
