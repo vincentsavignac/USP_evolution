@@ -58,7 +58,7 @@ The notebook contains the methodology used to generate the transport-property gr
 - Thermal conductivity
 - Electrical conductivity
 - Viscosity
-- 
+  
 The notebook is intended as a transparent and reproducible companion to the tabulated data products. Users may employ it to regenerate the grids, modify assumptions, or extend/improve the calculations to additional parameter ranges.
 Only the transport-property calculations are included here. For the construction of the underlying thermodynamic and equation-of-state (EOS) grids, including phase equilibria and other interior properties, readers are referred to Attia et al. (2026), who present the original PALEOS framework and describe the generation of those fundamental datasets.
 The notebook additionally reproduces Figures 2 and 3 of Savignac & Lee (2026), which illustrate the construction and validation of the transport-property grids. These figures provide a visual overview of the methodology and resulting parameter-space coverage.
