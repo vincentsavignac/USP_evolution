@@ -41,9 +41,8 @@ These grids are intended for studies of:
 
 ## Data Format
 
-The transport-property tables are provided as two-dimensional grids in pressure-temperature ($P$-$T$) space.
-Each physical quantity is stored as a CSV file containing the base-10 logarithm of the quantity,
-$\mathrm{value}_{\rm stored} = \log_{10}(X)$,where (X) is the corresponding physical property in its native units. The grids for enstatite and iron can be found in the "EOS_data" folder.
+The transport-property tables are provided as two-dimensional grids in pressure-temperature (P-T) space.
+Each physical quantity is stored as a CSV file containing the base-10 logarithm of the quantity in its native units. The grids for enstatite and iron can be found in the "EOS_data" folder.
 
 The repository additionally provides:
 
