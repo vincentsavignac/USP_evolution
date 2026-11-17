@@ -10,6 +10,8 @@ The models presented here build directly upon the PALEOS framework developed by 
 
 PALEOS provides self-consistent multiphase equations of state and interior structure calculations for rocky exoplanets. 
 
+This repository is a complementary extension describing transport properties not included in PALEOS.
+
 ## Contents
 
 The repository contains tabulated material properties as functions of pressure and temperature:
