@@ -81,5 +81,3 @@ ADD CITATION
 ## Disclaimer
 
 These grids are provided for research purposes. While extensive validation has been performed, users are encouraged to verify that the adopted parameter space, material assumptions, and interpolation methods are appropriate for their specific application.
-
-@Vincent Savignac CC-BY 
